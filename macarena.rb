@@ -1,5 +1,5 @@
 puts "How To Do The Macarena:"
-puts "#{# Step 1: GOOD} #{# Step 6: FIXME} 
+puts ""
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
@@ -9,7 +9,8 @@ puts "#{# Step 1: GOOD} #{# Step 6: FIXME}
 puts "Step 1: Right arm out in front of you, palm facing down."
 
 # Step 2: FIXME
-puts "Step 2: Turn your right palm up."
+puts "Step 2: Left arm out in front of you, palm facing down."
+"Step 2: Turn your right palm up."
 
 # Step 3: FIXME
 puts "Step 3: Place your right hand on your left shoulder."
