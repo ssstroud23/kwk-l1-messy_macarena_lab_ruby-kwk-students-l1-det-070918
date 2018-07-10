@@ -1,5 +1,5 @@
 puts "How To Do The Macarena:"
-puts ""
+puts "#{# Step 1: GOOD} #{# Step 6: FIXME} 
 
 # Fix The Dance Instructions Below
 # Every line should have one instruction using puts.
